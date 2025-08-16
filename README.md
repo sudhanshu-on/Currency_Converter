@@ -18,10 +18,6 @@ No API key required (using free exchange rate API) 🔑❌
 
 Frontend: HTML, CSS, JavaScript
 
-API: ExchangeRate API
+API: FrankFurter API
 
 Flags: FlagsAPI
-
-📸 Screenshots
-
-(Add screenshots here later, e.g. /screenshots/home.png)
